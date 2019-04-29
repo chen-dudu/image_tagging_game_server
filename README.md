@@ -1,1 +1,4 @@
-# image_tagging_game_server
+# Image Tagging Game Server
+- This repository contains source code for implementing a game server for image tagging
+## Background
+- Nowadays, search engines have been an essential part of our lives, e.g., Google and Bing, which have significantly improved our productiveness. There are various types of searching services, among which keyword search is the dominant one, namely searching by keywords. While keyword search works well for documents, pages and websites, it faces a big challenge when searching for images. This is because linking images with keywords is typically difficult for computers as it requires understanding on the semantic of images. For this purpose, tagging images with keywords is one of the most effective ways to help computers understand images’ semantic, and this is also the first step to help machines learn (by telling them which is correct and which is wrong). Unfortunately, tagging a large number of images is boring and requires a substantial amount of humanpower.
