@@ -1,7 +1,7 @@
 /**
  * Module containing functions that respond to http request
  * sent by browser
- * Created by CHEN LIGUO(student ID: 851090), April 2019
+ * Created by CHEN LIGUO(liguoc@student.unimelb.edu.au), April 2019
  * for Computer System(COMP30023) project 1
  *
  */

@@ -4,7 +4,7 @@
 # created Mar 2018
 # by Matt Farrugia <matt.farrugia@unimelb.edu.au>
 # modified April 2019
-# by CHEN LIGUO(student ID: 851090)
+# by CHEN LIGUO(liguoc@student.unimelb.edu.au)
 
 CC     = gcc
 CFLAGS = -Wall -std=c99 -O3

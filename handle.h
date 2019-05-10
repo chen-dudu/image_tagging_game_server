@@ -1,7 +1,7 @@
 /**
  * part of the code in this file is 
  * taken from the sample code from LMS
- * Modified by CHEN LIGUO(student ID: 851090), April 2019
+ * Modified by CHEN LIGUO(liguoc@student.unimelb.edu.au), April 2019
  * for Computer System(COMP30023) project 1
  *
  */
